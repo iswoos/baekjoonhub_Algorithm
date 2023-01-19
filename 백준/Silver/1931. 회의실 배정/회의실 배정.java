@@ -16,6 +16,10 @@ public class Main {
             arr[i][1] = scan.nextInt();
         }
 
+
+        //  Comparable 혹은 Comparator의 차이! >> 이거 자주 보자. 명확하고 쉽게 설명해주었다.
+        // https://st-lab.tistory.com/243
+
         Arrays.sort(arr, new Comparator<int[]>() {
             @Override
             public int compare(int[] o1, int[] o2) {
