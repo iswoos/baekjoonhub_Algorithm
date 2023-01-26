@@ -1,3 +1,6 @@
+// 1월 25일경 업데이트 미반영현상 발생함..
+// 이유 파악중
+
 class Solution {
     public long solution(int k, int d) {
         long answer = 0;
