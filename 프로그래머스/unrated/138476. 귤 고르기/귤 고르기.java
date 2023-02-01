@@ -36,7 +36,7 @@ class Solution {
 
         @Override
         public int compare(Integer o1, Integer o2) {
-            return map.get(o2).compareTo(map.get(o1));
+            return map.get(o2)-map.get(o1);
         }
     }
 }
