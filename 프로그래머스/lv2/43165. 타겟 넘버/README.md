@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/102216495/218924399-260a157c-2c5a-49b7-8d1d-c41fa6ec135d.png)
+
+
 # [level 2] 타겟 넘버 - 43165 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/43165) 
